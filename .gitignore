@@ -45,7 +45,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-lib/src
+
 teste_flutter.md
 lib/app.dart
 lib/routes.dart
