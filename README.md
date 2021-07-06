@@ -1,16 +1,7 @@
-# market_easy
+# Como foi feita
 
-A new Flutter project.
+Usei uma abordagem que usa Streams(RxDart) e o Provider para passar a mudança de estado pelo aplicativo
 
-## Getting Started
+# Como rodar
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tudo que é preciso é de um dispositivo sendo emulado e rodar no terminal o comando "flutter run --no-sound-null-safety" ou a sessão de debug do vscode
